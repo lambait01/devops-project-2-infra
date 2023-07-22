@@ -1,0 +1,9 @@
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform/*
+**/.terraform.lock.hcl
+
+./terraform_code/vpc/.terraform/*
+**/vpc/.terraform/*
+**/terraform_code/vpc/terraform-provider-aws_v5.8.0_x5.exe
+./terraform_code/vpc/terraform-provider-aws_v5.8.0_x5.exe
